@@ -1,0 +1,8 @@
+flask
+gunicorn
+pandas
+scikit-learn
+numpy
+category_encoders
+joblib
+xgboost
