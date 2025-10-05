@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 st.title("🌍 Life Expectancy Data Analysis Dashboard")
 
-df = pd.read_excel(r"C:\Users\User\Downloads\Life Expectancy Data.xlsx)
+df = pd.read_excel("Life Expectancy Data.xlsx")
 
 st.subheader("Correlation Heatmap")
 fig, ax = plt.subplots(figsize=(12,8))
