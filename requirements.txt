@@ -6,3 +6,5 @@ numpy
 category_encoders
 joblib
 xgboost
+matplotlib
+seaborn
