@@ -6,6 +6,15 @@ scikit-learn
 numpy
 category_encoders
 joblib
-xgboost
+LinearRegression
+Ridge
+Lasso
+RandomForestRegressor
+GradientBoostingRegressor
+KNeighborsRegressor
+XGBRegressor
+DecisionTreeRegressor
+SVR
+scipy
 matplotlib
 seaborn
