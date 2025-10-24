@@ -1,5 +1,7 @@
 streamlit
 flask
+plotly
+math
 gunicorn
 pandas
 scikit-learn
