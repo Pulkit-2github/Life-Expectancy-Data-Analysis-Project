@@ -15,5 +15,21 @@ The goal of this analysis is to understand the key factors influencing life expe
 🔹How do economic indicators (like GDP, schooling, income composition) impact it?
 🔹Can we build a predictive model to estimate life expectancy?
 
-## 
+## Data Description
+The dataset consists of 2938 records with 22 columns.
+
+## Steps Followed :
+✅ Data Import
+✅ Data Cleaning
+    - Missing Values Treatment
+    - Outliers Treatment
+✅ Exploratory Data Analysis(EDA)
+✅ Model Implementation
+    - Label Encoding
+    - Train & Test Data
+    - Defining Models
+    - Hyperparameter Tuning Models
+    - Selecting Best Model
+
+
 
