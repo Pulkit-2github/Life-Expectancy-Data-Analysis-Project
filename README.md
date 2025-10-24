@@ -19,12 +19,12 @@ The goal of this analysis is to understand the key factors influencing life expe
 The dataset consists of 2938 records with 22 columns.
 
 ## Steps Followed :
-✅ Data Import
-✅ Data Cleaning
+1️⃣ Data Import
+2️⃣ Data Cleaning
     - Missing Values Treatment
     - Outliers Treatment
-✅ Exploratory Data Analysis(EDA)
-✅ Model Implementation
+3️⃣ Exploratory Data Analysis(EDA)
+4️⃣ Model Implementation
     - Label Encoding
     - Train & Test Data
     - Defining Models
