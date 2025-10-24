@@ -21,15 +21,15 @@ The dataset consists of 2938 records with 22 columns.
 ## Steps Followed :
 1️⃣ Data Import
 2️⃣ Data Cleaning
-    - Missing Values Treatment
-    - Outliers Treatment
+- Missing Values Treatment
+- Outliers Treatment
 3️⃣ Exploratory Data Analysis(EDA)
 4️⃣ Model Implementation
-    - Label Encoding
-    - Train & Test Data
-    - Defining Models
-    - Hyperparameter Tuning Models
-    - Selecting Best Model
+- Label Encoding
+- Train & Test Data
+- Defining Models
+- Hyperparameter Tuning Models
+- Selecting Best Model
 
 
 
